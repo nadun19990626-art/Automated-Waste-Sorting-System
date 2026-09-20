@@ -1,5 +1,7 @@
 # Automated Waste Sorting System
+## System Diagram
 
+![Automated Waste Sorting System](system_diagram.png)
 ## Project Overview
 
 The Automated Waste Sorting System is designed to automate the
