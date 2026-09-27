@@ -1,8 +1,6 @@
 # Automated Waste Sorting System
-## System Diagram
 
-
-# Automated Waste Sorting System
+## Solidworks Diagram
 
 ![Automated Waste Sorting System](system_diagram.jpg)
 
