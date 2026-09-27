@@ -77,25 +77,7 @@ Next Waste Item
 | 1 | Paper | Paper Bin |
 | 2 | Plastic | Plastic Bin |
 | 3 | Metal | Metal Bin |
-
-## PLC Control
-
-The Siemens S7-200 CPU 224 PLC is used as the main industrial control unit. The PLC performs:
-
-- System Start/Stop control
-- Vibration feeder control
-- Conveyor control
-- Classification signal processing
-- FIFO queue management
-- Photoelectric sensor monitoring
-- Robotic sorting sequence control
-- Vacuum control
-- Timer control
-- Total waste counting
-- Paper counting
-- Plastic counting
-- Metal counting
-- Counter reset and system reset
+t
 
 ## Software and Technologies
 
@@ -136,39 +118,3 @@ Automated-Waste-Sorting-System
 └── README.md
 
 
-Image Processing Workflow
-Camera Image
-     ↓
-Image Resizing
-     ↓
-Grayscale Conversion
-     ↓
-Gaussian Filtering
-     ↓
-Otsu Thresholding
-     ↓
-Binary Image
-     ↓
-Contour Detection
-     ↓
-Object Region Extraction
-     ↓
-Feature Extraction
-     ↓
-Waste Classification
-     ↓
-Paper / Plastic / Metal
-Data Recording
-
-The PLC uses counters to record the number of sorted waste materials.
-
-Total Waste Count
-Paper Count
-Plastic Count
-Metal Count
-
-The recorded values can be used to obtain the daily sorting quantity.
-
-Project Status
-
-This project focuses on the design and development of an automated waste-sorting system integrating mechanical, electrical, pneumatic, robotic, image-processing, and PLC-based control technologies
