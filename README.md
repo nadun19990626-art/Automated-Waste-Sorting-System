@@ -4,7 +4,7 @@
 
 # Automated Waste Sorting System
 
-![Automated Waste Sorting System](system_diagram.png)
+![Automated Waste Sorting System](system_diagram.jpg)
 
 ## Project Overview
 
