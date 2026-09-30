@@ -2,7 +2,7 @@
 
 """
 Waste Classification Module
-Automated Waste Sorting System
+Design of a Vision-Based Automated Waste Sorting and Classification System
 
 This module is responsible for determining the category
 of waste after image processing.
