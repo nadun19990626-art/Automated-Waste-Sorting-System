@@ -2,7 +2,7 @@
 
 """
 Image Processing Module
-Automated Waste Sorting System
+Design of a Vision-Based Automated Waste Sorting and Classification System
 
 This module handles image acquisition preprocessing and
 preparation of waste images for classification.
