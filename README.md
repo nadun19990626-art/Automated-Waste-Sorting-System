@@ -1,12 +1,12 @@
-# Automated Waste Sorting System
+# Design of a Vision-Based Automated Waste Sorting and Classification System
 
 ## Solidworks Diagram
 
-![Automated Waste Sorting System](system_diagram.jpg)
+![Design of a Vision-Based Automated Waste Sorting and Classification System](system_diagram.jpg)
 
 ## Project Overview
 
-The Automated Waste Sorting System is designed to automate the identification and separation of different types of waste materials into Paper, Plastic, and Metal categories. The proposed system integrates a 230 V AC vibration feeder, conveyor system, Raspberry Pi-based image processing, a Siemens S7-200 CPU 224 PLC, photoelectric sensor, an Epson T6-602S SCARA robotic arm, and a vacuum suction mechanism.
+The Design of a Vision-Based Automated Waste Sorting and Classification System is designed to automate the identification and separation of different types of waste materials into Paper, Plastic, and Metal categories. The proposed system integrates a 230 V AC vibration feeder, conveyor system, Raspberry Pi-based image processing, a Siemens S7-200 CPU 224 PLC, photoelectric sensor, an Epson T6-602S SCARA robotic arm, and a vacuum suction mechanism.
 
 The vibration feeder provides controlled feeding of waste materials onto the conveyor system. The Raspberry Pi camera captures images of the waste materials and the Raspberry Pi processes the images to classify each item. The classification result is transmitted to the PLC, which coordinates the conveyor movement, FIFO data storage, position detection, robotic operation, vacuum gripping, and sorting sequence.
 
