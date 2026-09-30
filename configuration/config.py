@@ -1,5 +1,5 @@
 """
-Configuration file for the Automated Waste Sorting System.
+Configuration file for the Design of a Vision-Based Automated Waste Sorting and Classification System
 
 This file contains the main system parameters, camera settings,
 waste classification categories, and PLC communication settings.
