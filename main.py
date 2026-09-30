@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Automated Waste Sorting System
+Design of a Vision-Based Automated Waste Sorting and Classification System
 Main control script for Raspberry Pi based waste classification
 and automated robotic sorting.
 
