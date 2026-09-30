@@ -47,7 +47,6 @@ The PLC also maintains separate counters for the total number of sorted items an
 | 1 | Paper | Paper Bin |
 | 2 | Plastic | Plastic Bin |
 | 3 | Metal | Metal Bin |
-t
 
 ## Software and Technologies
 
