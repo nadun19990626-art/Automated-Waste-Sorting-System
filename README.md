@@ -38,35 +38,7 @@ The PLC also maintains separate counters for the total number of sorted items an
 
 ## System Workflow
 
-Vibration Feeder
-↓
-Conveyor 1
-↓
-Image Acquisition
-↓
-Image Processing
-↓
-Waste Classification
-↓
-Raspberry Pi
-↓
-PLC Classification Signal
-↓
-FIFO Queue
-↓
-Conveyor 2
-↓
-Photoelectric Sensor
-↓
-Epson T6-602S SCARA Robot
-↓
-Vacuum Pick-and-Place
-↓
-Paper / Plastic / Metal Collection Bin
-↓
-Counter Update
-↓
-Next Waste Item
+![System Workflow](Flow_chart.png)
 
 ## Classification Logic
 
